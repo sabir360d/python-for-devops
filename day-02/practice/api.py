@@ -6,5 +6,5 @@ response = requests.get(url=api_url)
 
 for key,value in response.json().items():
     if key == "userId":
-        if value in [100,200,300]:
-            print("User found")
+            if value in [100,200,300]:
+                        print("User found")
