@@ -1,0 +1,11 @@
+{
+    "ec2_instances": [
+        {
+            "instance_id": "i-057f66bb3e7d9e3cc",
+            "state": "stopped"
+        }
+    ],
+    "s3_buckets": [
+        "twsjoshbatch"
+    ]
+}
